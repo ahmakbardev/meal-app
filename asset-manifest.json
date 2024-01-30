@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/meal-app/static/css/main.db619f36.css",
+    "main.js": "/meal-app/static/js/main.7e8528f5.js",
+    "static/js/787.da8b925b.chunk.js": "/meal-app/static/js/787.da8b925b.chunk.js",
+    "static/media/potatoes.webp": "/meal-app/static/media/potatoes.9b0ef0f9f1f9a1909156.webp",
+    "index.html": "/meal-app/index.html",
+    "main.db619f36.css.map": "/meal-app/static/css/main.db619f36.css.map",
+    "main.7e8528f5.js.map": "/meal-app/static/js/main.7e8528f5.js.map",
+    "787.da8b925b.chunk.js.map": "/meal-app/static/js/787.da8b925b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db619f36.css",
+    "static/js/main.7e8528f5.js"
+  ]
+}
